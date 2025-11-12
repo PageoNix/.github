@@ -69,7 +69,7 @@ We're always looking for passionate developers and collaborators.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://pageonix.github.io/home/">Home</a></td>
+      <td><a href="https://pageonix.github.io">Home</a></td>
       <td>Central site of PageoNix</td>
       <td>HTML, CSS, JS</td>
     </tr>
@@ -155,7 +155,7 @@ We’re expanding our suite of projects and resources.<br>
 ## 📞 Connect With Us
 
 Stay updated and connected:<br>
-- 🌐 [Website](https://pageonix.github.io/home)
+- 🌐 [Website](https://pageonix.github.io)
 - 🧑‍💻 [GitHub Organization](https://github.com/Pageonix)
 - ✉️ Email: pageonixlabs@gmail.com
 
