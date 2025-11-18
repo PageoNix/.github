@@ -157,7 +157,7 @@ We’re expanding our suite of projects and resources.<br>
 Stay updated and connected:<br>
 - 🌐 [Website](https://pageonix.github.io)
 - 🧑‍💻 [GitHub Organization](https://github.com/Pageonix)
-- ✉️ Email: pageonixlabs@gmail.com
+- ✉️ Email: info@pageonix.in
 
 If you’re a student, creator, or a growing startup — reach out.<br>
 We love collaborating on real-world problems and pushing boundaries through tech.
